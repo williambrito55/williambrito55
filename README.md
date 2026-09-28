@@ -1,196 +1,207 @@
-<header style="
-  border: 2px solid #3C3C3C;
-  padding: 30px;
-  border-radius: 10px;
-  margin-bottom: 60px"> 
-  
-  <p style=
-    "text-transform: uppercase; 
-    font-size: 32px;
-    color: #fff">
-    William Brito</p>
-  
-  <p style=
-    "text-transform: uppercase; 
-    font-size: 25px;
-    color: #fff">
-    Front-end Developer</p>
-  
-  <hr style="
-    width: 10%;
-    margin-left: 0;">
-  
-  <p>lorem</p>
-  
-<span style="
-  display: flex; 
-  gap: 10px">
-
-  <a href="https://www.linkedin.com/in/william-brito-dev"
-    style="
-    text-transform: uppercase; 
-    color: #fff;
-    border: 2px solid #3C3C3C;
-    padding: 15px 30px;
-    border-radius: 10px;
-    text-decoration: none">
-    LinkedIN</a>
-  
-  <a href="portfolio" 
-    style="
-    text-transform: uppercase; 
-    color: #fff;
-    border: 2px solid #3C3C3C;
-    padding: 15px 30px;
-    border-radius: 5px;
-    text-decoration: none">Portfolio</a>
+<img alt="capa com as minhas principais stacks atualmente" src="imagens/capa.jpeg" style="text-align: center"/>
 
 
-  <a href="mailto: contatowilliambritodacosta55@gmail.com" 
-    style="
-    text-transform: uppercase; 
-    color: #fff;
-    border: 2px solid #3C3C3C;
-    padding: 15px 30px;
-    border-radius: 5px;
-    text-decoration: none">
-    E-mail</a>
+<div style="text-align: center">
 
-</span>
+![contador de visitas do perfil](https://komarev.com/ghpvc/?username=williambrito55&color=86cecb&style=flat&&label=Visitantes)
 
-</header>
+</div>
+
+Descrição
+
+<br>
 
 
-<p style="
-  font-size: 24px; 
-  text-transform: uppercase;
-  font-weight: 700">Stacks</p>
+<h2> 
+  <img width="24" height="24" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/> Projetos em destaque 
+</h2>
 
-<section style="
-  display: flex; 
-  gap: 10px; 
-  border: 2px solid #3C3C3C;
-  border-radius: 5px;
-  padding: 30px;
-  height: 100px;
-  margin-bottom: 50px">
-  
+<!-- Seção de projetos -->
 
-  <article style="
-    display: flex; 
-    border-right: 2px solid #3C3C3C; 
-    padding-right: 20px">
-  
-  <p>Front-end</p>
- 
-  <!-- HTML PNG icon -->
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" 
-    alt="logo html" 
-    width="50" height="50">
-    <figcaption>HTML5</figcaption>
-  </figure>
+<section style="display: flex; gap: 10px; margin-bottom: 100px">
 
+<article style="text-align: center; height: 70%; padding-top: 35px">
 
-  <!-- CSS PNG icon -->  
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" 
-    alt="logo css" 
-    width="50" height="50">
-    <figcaption>CSS3</figcaption>
-  </figure>
+<figure>
+  <img src="imagens/projeto-rosana.png" alt="imagem de capa do projeto da Rosana Brito" width="350px" height="197">
+  <figcaption>Landing Page desenvolvido para cliente.</figcaption>
+</figure>
 
-
-  <!-- JS PNG icon -->
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" 
-    alt="logo JavaScript" 
-    width="50" height="50">
-  <figcaption>JavaScript</figcaption>
-  </figure>
-
-
-  <!-- TailwindCSS PNG icon -->   
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" 
-    alt="logo tailwind" 
-    widht="50" height ="50">
-    <figcaption>TailwindCSS</figcaption>
-  </figure>
-
-
-  <!-- React.js PNG icon-->
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" 
-    alt="logo react.js" 
-    width="50" height="50">
-    <figcaption>React.js</figcaption>
-  </figure>
+<a href="https://rosanabritoesteticista.vercel.app/" target="_blank" style="color: #90CCCC; font-weight: bold; text-decoration: none">Ver projeto</a>
 
 </article>
 
-<article style="display: flex;">
-  
-  <p>Database & Tools</p>
+<article style="text-align: center; height: 70%; padding-top: 35px">
 
+<figure>
+  <img src="imagens/capa-teladelogin.jpeg" alt="imagem de capa do projeto tela de login" width="350px" height="191">
+  <figcaption>Uma página de login simples e bonita.</figcaption>
+</figure>
 
-  <!-- PostgreSQL PNG icon -->
-  <figure>  
-    <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" 
-    alt="logo PostgreSQL" 
-    width="50" height="50">
-    <figcaption>PostgreSQL</figcaption>
-  </figure>
+<div style="display: flex; justify-self: center; gap: 15px">
 
+<a href="https://tela-login-projeto.vercel.app/" target="_blank" style="color: #90CCCC; font-weight: bold; text-decoration: none">Ver projeto</a>
 
-  <!--Git PNG icon -->
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" 
-    alt="logo git" 
-    width="50" height="50">
-    <figcaption>Git</figcaption>
-  <figure>
-  
+<a href="https://github.com/williambrito55/tela-login" target="_blank" style="color: #90CCCC; font-weight: bold; text-decoration: none">Repositório</a>
 
-  <!-- Github PNG icon -->
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" 
-    alt="logo github" 
-    width="50" height="50">
-    <figcaption>Github</figcaption>
-  </figure>
-  
-
-  <!-- Linux PNG icon-->
-  <figure>
-    <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" 
-    alt="logo linux" 
-    width="50" height="50">
-    <figcaption>Linux</figcaption>
-  </figure>
+</div>
 
 </article>
+
+</section>
+
+
+<h2> 
+<img width="24" height="24" src="https://img.icons8.com/color/48/full-tool-storage-box-.png" alt="full-tool-storage-box-"/> Stack & Tools </h2>
+
+<!-- Seção de stacks e ferramentas -->
+<section style="margin: 50px 0">
+
+<div style="display: flex; gap: 5px;">
+
+<!-- HTML ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- CSS ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- TailwindCSS ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48px" height="48px"/>
+          
+
+
+<!-- JavaScript ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- React.js ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48px" height="48px"/>
+          
+
+
+<!-- Node.js ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- NPM ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="48px" height="48px"/>
+                              
+
+
+<!-- Java ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- PostgreSQL ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48px" height="48px"/>
+          
+
+
+<!-- Git ícone -->
   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48px" height="48px"/>
+          
+
+
+<!-- GitHub ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- VS Code ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48px" height="48px"/>
+          
+
+
+<!-- Bash  ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- ZSH ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="48px" height="48px"/>
+          
+
+
+<!-- Debian ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="48px" height="48px"/>
+
+
+
+<!-- Vercel ícone -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="48px" height="48px"/>
+
+</div>
+
 </section>
 
-<section>
-
-  <p style="font-size: 24px; text-transform: uppercase">Projetos em destaque</p>
 
 
+<!-- Git Stats -->
 
-</section>
+<h2 style="text-align: center"> Git Stats </h2>
 
-<section style="border: 2px solid #3C3C3C">
+<section style="margin: 50px 0">
 
+
+<div style="display: flex; gap: 25px; margin-bottom: 35px; align-items: center">
+
+<!-- Card resumo -->
 <img 
   src="https://github-stats-extended.vercel.app/api?username=williambrito55&theme=dark&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="William's GitHub stats" style="border: 2px solid #3C3C3C;">
 
+
+<!-- Card linguagens mais usadas -->
 <img 
-  src="https://streak-stats.demolab.com/?user=williambrito55&theme=dark&hide_border=true&background=000000">
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=williambrito55&layout=compact&theme=dark_github"/>
+</div>
+
+
+<!-- Card commits -->
+
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=williambrito55&theme=tokyonight-duo&locale=pt_BR&short_numbers=true" alt="GitHub Streak" style="margin-left: 25%">
+</a>
 
 </section>
 
 
 
-</html>
+<h2> 
+<img width="24" height="24" src="https://img.icons8.com/external-vectorslab-outline-color-vectorslab/53/external-Handshake-medical-and-corona-virus-vectorslab-outline-color-vectorslab.png" alt="external-Handshake-medical-and-corona-virus-vectorslab-outline-color-vectorslab"/> Conecte-se comigo </h2>
+
+
+<a href="mailto:contatowilliambritodacosta55@gmail.com" target="_blank">
+
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
+
+</a>
+
+<a href="https://www.linkedin.com/in/william-brito-dev/" target="_blank">
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+
+</a>
