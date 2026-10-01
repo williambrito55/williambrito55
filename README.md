@@ -156,7 +156,7 @@
   
 <!-- Card linguagens mais usadas -->
   <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=williambrito55&layout=compact&theme=dark_github" alt="most languege used" align="right" width="400px"/>
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=williambrito55&layout=compact&theme=dark_github" alt="most languege used" align="right" width="300px"/>
   </div>
 
 
