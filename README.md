@@ -1,16 +1,21 @@
-<img alt="capa com as minhas principais stacks atualmente" src="imagens/capa.jpeg" style="text-align: center"/>
+<div  align="center">
 
-
-<div style="text-align: center">
+<img alt="capa com as minhas principais stacks atualmente" src="imagens/capa.jpeg"/>
 
 ![contador de visitas do perfil](https://komarev.com/ghpvc/?username=williambrito55&color=86cecb&style=flat&&label=Visitantes)
+![GitHub Followers](https://img.shields.io/github/followers/williambrito55?style=flat&logo=github)
+![Repositories](https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwilliambrito55&style=flat&logo=github)
 
 </div>
 
-Descrição
+<p>Olá, eu sou o <strong>William!</strong></p>
+<p>
+  Estou construindo minha carreira em desenvolvimento web, aprendendo na prática e colocando meus estudos em projetos reais.<br>
+  Aqui compartilho meus projetos, estudos e experiências durante essa jornada.<br>
+  Atualmente estou focado em evoluir como desenvolvedor Full Stack, explorando desde o Front-End até o Back-End.
+</p>
 
 <br>
-
 
 <h2> 
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/> Projetos em destaque 
@@ -18,136 +23,114 @@ Descrição
 
 <!-- Seção de projetos -->
 
-<section style="display: flex; gap: 10px; margin-bottom: 100px">
+<section>
 
-<article style="text-align: center; height: 70%; padding-top: 35px">
+<p>Principais projetos desenvolvidos até o momento.</p>
 
-<figure>
-  <img src="imagens/projeto-rosana.png" alt="imagem de capa do projeto da Rosana Brito" width="350px" height="197">
-  <figcaption>Landing Page desenvolvido para cliente.</figcaption>
-</figure>
+<div align="center">
 
-<a href="https://rosanabritoesteticista.vercel.app/" target="_blank" style="color: #90CCCC; font-weight: bold; text-decoration: none">Ver projeto</a>
+<table>
+  <tr>
+  <td align="center" width="50%">
 
-</article>
+  <img src="imagens/capa-ladingpage.png" alt="Landing Page Rosana Brito" width="350">
 
-<article style="text-align: center; height: 70%; padding-top: 35px">
+  <strong>Landing Page desenvolvido para cliente.</strong>
 
-<figure>
-  <img src="imagens/capa-teladelogin.jpeg" alt="imagem de capa do projeto tela de login" width="350px" height="191">
-  <figcaption>Uma página de login simples e bonita.</figcaption>
-</figure>
+  <a href="https://rosanabritoesteticista.vercel.app/" target="_blank"> Ver projeto </a>
 
-<div style="display: flex; justify-self: center; gap: 15px">
+  </td>
 
-<a href="https://tela-login-projeto.vercel.app/" target="_blank" style="color: #90CCCC; font-weight: bold; text-decoration: none">Ver projeto</a>
+  <td align="center" width="50%">
 
-<a href="https://github.com/williambrito55/tela-login" target="_blank" style="color: #90CCCC; font-weight: bold; text-decoration: none">Repositório</a>
+  <img src="imagens/capa-teladelogin.jpeg" alt="Tela de Login"  width="350">
+
+  <strong>Uma página de login simples e bonita.</strong>
+
+  <span>
+    <a href="https://tela-login-projeto.vercel.app/" target="_blank">Ver projeto</a>
+    <a href="https://github.com/williambrito55/tela-login" target="_blank">Repositório</a>
+  </span>
+  </td>
+  </tr>
+</table>
 
 </div>
 
-</article>
-
 </section>
 
+<br><br>
 
-<h2> 
-<img width="24" height="24" src="https://img.icons8.com/color/48/full-tool-storage-box-.png" alt="full-tool-storage-box-"/> Stack & Tools </h2>
+<h2><img width="24" height="24" src="https://img.icons8.com/color/48/full-tool-storage-box-.png" alt="full-tool-storage-box-"/> Stack & Tools </h2>
 
 <!-- Seção de stacks e ferramentas -->
-<section style="margin: 50px 0">
+<section>
 
-<div style="display: flex; gap: 5px;">
+<p>Algumas stacks que mais utilizo em meus projetos.</p>
+
+<br><br>
+
+<div align="center">
 
 <!-- HTML ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48px" height="48px"/>
 
-
-
 <!-- CSS ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48px" height="48px"/>
-
-
 
 <!-- TailwindCSS ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48px" height="48px"/>
           
-
-
 <!-- JavaScript ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" height="48px"/>
 
-
-
 <!-- React.js ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48px" height="48px"/>
-          
-
 
 <!-- Node.js ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48px" height="48px"/>
 
-
-
 <!-- NPM ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="48px" height="48px"/>
-                              
-
 
 <!-- Java ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48px" height="48px"/>
 
-
-
 <!-- PostgreSQL ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48px" height="48px"/>
-          
-
 
 <!-- Git ícone -->
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48px" height="48px"/>
           
-
-
 <!-- GitHub ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48px" height="48px"/>
 
-
-
 <!-- VS Code ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48px" height="48px"/>
-          
-
 
 <!-- Bash  ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48px" height="48px"/>
 
-
-
 <!-- ZSH ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="48px" height="48px"/>
           
-
-
 <!-- Debian ícone -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="48px" height="48px"/>
-
-
 
 <!-- Vercel ícone -->
 
@@ -157,51 +140,48 @@ Descrição
 
 </section>
 
-
+<br><br>
 
 <!-- Git Stats -->
 
-<h2 style="text-align: center"> Git Stats </h2>
+<h2 align="center">Git Stats</h2>
 
-<section style="margin: 50px 0">
+<section>
 
+<p>Resumo do meu GitHub.</p>
 
-<div style="display: flex; gap: 25px; margin-bottom: 35px; align-items: center">
+<br>
 
-<!-- Card resumo -->
-<img 
-  src="https://github-stats-extended.vercel.app/api?username=williambrito55&theme=dark&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="William's GitHub stats" style="border: 2px solid #3C3C3C;">
-
-
+<div>
+  
 <!-- Card linguagens mais usadas -->
-<img 
-  src="https://github-stats-extended.vercel.app/api/top-langs?username=williambrito55&layout=compact&theme=dark_github"/>
-</div>
-
-
-<!-- Card commits -->
-
-<a href="https://git.io/streak-stats">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=williambrito55&theme=tokyonight-duo&locale=pt_BR&short_numbers=true" alt="GitHub Streak" style="margin-left: 25%">
-</a>
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=williambrito55&layout=compact&theme=dark_github" alt="most languege used" align="right" width="400px"/>
+  </div>
+
+
+  
+  <!-- Card commits -->
+  
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=williambrito55&theme=tokyonight-duo&locale=pt_BR&short_numbers=true" alt="GitHub Streak">
+  </a>
 
 </section>
 
-
+<br>
 
 <h2> 
 <img width="24" height="24" src="https://img.icons8.com/external-vectorslab-outline-color-vectorslab/53/external-Handshake-medical-and-corona-virus-vectorslab-outline-color-vectorslab.png" alt="external-Handshake-medical-and-corona-virus-vectorslab-outline-color-vectorslab"/> Conecte-se comigo </h2>
 
+<p>Se quiser trocar uma ideia sobre desenvolvimento, projetos ou tecnologia, pode me encontrar por aqui:</p>
 
-<a href="mailto:contatowilliambritodacosta55@gmail.com" target="_blank">
-
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
-
-</a>
-
-<a href="https://www.linkedin.com/in/william-brito-dev/" target="_blank">
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/william-brito-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
